@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Fiño Señores",
+    "slug": "Fiño Señores",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img/fino-senores.jpg",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/img/fino-senores.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#ccc"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "config": {
+        "googleMaps": { "apiKey": "YOUR-API-KEY" }   
+     },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/img/fino-senores.jpg",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.leonardo0119.Project"
+    },
+    "web": {
+      "favicon": "./assets/img/fino-senores.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "165f837a-15b5-437d-8f79-1fee4a49bf9e"
+      }
+    }
+  }
+}
