@@ -1,14 +1,17 @@
-# Mapa em React Native
+# Map in React Native
+- Application developed in React Native with the main purpose of learning and practicing this language
 
-## Para usar esse aplicativo em sua máquina local, é necessário que você possua o node e expo instalado na pasta do arquivo
-## para instalar, entre na pasta pelo terminal e use o seguinte comando: 
+### Installation
 
-```
+- To use this application on your local machine, you need to have node and expo installed in the file folder.
+- to install, enter the folder through the terminal and use the following command:
+
+🇧🇷
 npm install expo --force
-```
+🇧🇷
+### Initiation
+- To start the application, use the following command in your terminal:
 
-## Para inciar a aplicação, use o seguinte comando em seu terminal:
-
-```
+🇧🇷
 npm start
-```
+🇧🇷
